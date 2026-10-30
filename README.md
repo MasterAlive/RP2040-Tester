@@ -4,6 +4,10 @@ A Windows tool plus Pico firmware to stress-test Raspberry Pi Pico (RP2040) boar
 
 I'm a fan of the cheap RP Pico boards on AliExpress, but I noticed that some of the modules have problems. So I made this software to test their capabilities and see whether they crash under high load.
 
+<p align="center">
+  <img width="884" height="632" alt="image" src="https://github.com/user-attachments/assets/bf58010c-41f1-4e4a-8dfd-b5de8f712e4d" />
+</p>
+
 ## What it tests
 
 | Test | What it finds |
