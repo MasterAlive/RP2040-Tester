@@ -77,7 +77,7 @@ The flash test is text-based: the app sends `FLASH`, the Pico prints progress li
 
 ## Additional Info
 
-This Program is vibe coded via claude by Anthropic. I do not guarantee the functionality of this program. Please report any Bug or problem.
+This Program is vibe-coded via Claude by Anthropic. I do not guarantee the functionality of this program. Please report any Bug or problem.
 
 ## License
 
